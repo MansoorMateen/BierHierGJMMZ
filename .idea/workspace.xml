@@ -20,18 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/concert.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/recept.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/sport.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IndexBanner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/concert.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/concert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/overons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/recept.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/recept.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IndexBanner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/IndexBanner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overons.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/overons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staylContact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/staylContact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staylOverons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/staylOverons.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +50,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\html" />
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\css" />
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
     </key>
