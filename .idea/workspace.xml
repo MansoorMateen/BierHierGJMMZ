@@ -20,8 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/concert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/recept.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sport.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IndexBanner.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/concert.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/concert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/overons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/recept.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/recept.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +52,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608121312731</updated>
-      <workItem from="1608121313849" duration="3505000" />
+      <workItem from="1608121313849" duration="5207000" />
     </task>
     <servers />
   </component>
