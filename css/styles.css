@@ -4,17 +4,28 @@
 
 
 body {
+    width: 100%;
+    height: 70%;
     margin: 0;
     padding: 0;
     background-color: white;
 }
 
 header {
+    width: 100%;
+    height: 10%;
     background-color: rgb(111, 168, 220);
     text-align: center;
 }
 
+#navbar {
+    width: 100%;
+    height: 10%;
+}
+
 footer {
+    width: 100%;
+    height: 20%;
     background-color: rgb(153, 153, 153);
     color: white;
     clear: both;
