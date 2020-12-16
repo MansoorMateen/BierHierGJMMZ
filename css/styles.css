@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+header {
+    background-color: rgb(111, 168, 220);
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(153, 153, 153);
+    color: white;
+    clear: both;
+}
+
+h1 {
+    color: black;
+}
+
+h3 {
+    color: rgb(7, 55, 99);
+}
+
