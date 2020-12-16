@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -56,15 +56,19 @@
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Index.html">
+  <component name="RunManager" selected="JavaScript Debug.sport.html">
     <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="sport.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/sport.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.sport.html" />
         <item itemvalue="JavaScript Debug.Index.html" />
         <item itemvalue="JavaScript Debug.contact.html" />
       </list>
@@ -79,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608121312731</updated>
       <workItem from="1608121313849" duration="5207000" />
+      <workItem from="1608154061719" duration="823000" />
     </task>
     <servers />
   </component>
@@ -95,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="733" y="342" width="672" height="678" key="search.everywhere.popup" timestamp="1608121793194">
