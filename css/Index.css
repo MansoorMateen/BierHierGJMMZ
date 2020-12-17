@@ -44,24 +44,29 @@ header {
 .Nieuws {
     box-sizing: border-box;
     float: left;
-    width: 50%;
-    height: 50%;
+    width: 69%;
     margin-left: 10px;
-    text-align: left;
-    padding-right: 10px;
+    text-align: center;
+
+}
+.Nieuws article {
+    float: left;
 }
 
 .Stage {
     box-sizing: border-box;
     float: right;
-    width: 35%;
-    height: 50%;
-    text-align: left;
+    width: 30%;
+    text-align: center;
+}
+
+.Stage article {
+    float: right;
 }
 
 article {
     display: inline-block;
-    width: 20%;
+    width: 48%;
     border: 2px;
 }
 
@@ -94,6 +99,7 @@ h1 {
     color: black;
     float: left;
     margin-left: 15px;
+    width: 60%;
 }
 
 h3 {
