@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="">
+    <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="fixed dead image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,14 @@
       <workItem from="1608121313849" duration="5207000" />
       <workItem from="1608154061719" duration="823000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed dead image">
+      <created>1608225261794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608225261794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +114,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed dead image" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed dead image" />
   </component>
 </project>
