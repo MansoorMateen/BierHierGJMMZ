@@ -1,9 +1,16 @@
 * {
     margin: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    overflow: hidden;
 }
 
 body {
-    height: 100%;
+    margin: 0;
+    font-size: 15px;
 }
 
 div.nav {
@@ -32,21 +39,21 @@ div.map {
 }
 
 iframe {
-    width: 50%;
-    margin-left: 30px;
+    width: 100%;
+    max-width: 50%;
+    margin: 0;
 }
 
 p {
-    margin: 20px;
-    width: 50%;
+    margin: 15px 0;
 }
 
 form {
-    margin-left: 50px;
-    width: 350px;
+    max-width: 360px;
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
+    margin: 15px;
 }
 
 form div + div {
@@ -70,14 +77,48 @@ button {
     border: none;
     padding: 20px;
     text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
+    display: block;
+    margin: 4px auto;
     cursor: pointer;
     font-size: 15px;
-    border-radius: 50%;
-    width: 100px;
+    border-radius: 6px;
     text-align: end;
+    background-color: transparent;
 }
-a#ons{
+
+button:hover {
+    background-color: #ddd;
+}
+
+.i-b {
+    display: inline-block;
+    background-color: red;
+}
+
+
+a#ons {
     margin: 50px;
+}
+
+.page-header > h2 {
+    font-size: 2.1em;
+}
+
+.page-map {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.page-map > * {
+    min-width: 375px;
+}
+
+.page-map > p {
+    margin: 15px;
+}
+
+
+.page-form > form {
+    display: inline-block;
 }
