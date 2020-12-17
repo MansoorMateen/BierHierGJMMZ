@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/nieuwsEen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nieuwsTwee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stageImage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/Index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/IndexBanner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/IndexBanner.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +48,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\img" />
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\html" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\css" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Index.html">
