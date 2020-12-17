@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 100%;
+    height: 70%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(11, 135, 184);
+    border-bottom: #333333;
+    border-left: #333333;
+    border-right: #333333;
+}
+
+header {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(111, 168, 220);
+    background-image: url("../img/Concert1.jpg");
+    background-size: auto;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #fda4ba;
+    color: silver;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+article {
+    box-sizing: border-box;
+    width: 30%;
+    border: 5px;
+}
+
+.sectionImage {
+    width: 250px;
+    height: 150px;
+}
+
+footer {
+    width: 100%;
+    height: 20%;
+    background-color: rgb(153, 153, 153);
+    color: white;
+    clear: both;
+}
+
+h1 {
+    color: black;
+    float: left;
+}
+
+h3 {
+    float: left;
+   color: black;
+}
+
+imagesize {
+    width: wrap;
+}
