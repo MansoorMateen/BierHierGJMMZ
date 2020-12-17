@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <title>Sportevenementen</title>
     <style>
+        .main {
+            display: flex;
+            flex-wrap: wrap;
+        }
         @import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap%27);
         @import url(https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap%27);
         .header-img {
@@ -33,12 +37,17 @@
             color: black;
         }
 
+
         .main {
             font-family: 'Padauk', sans-serif;
             font-size: 20px;
             flex: 70%;
             background-color: white;
             padding: 200px;
+        }
+
+        h2 {
+            text-align: left;
         }
 
         .footer {
@@ -49,6 +58,18 @@
             background: #333;
         }
 
+        @media screen and (max-width: 700px) {
+            .main {
+                flex-direction: column;
+            }
+        }
+
+        @media screen and (max-width: 400px) {
+            .navbar a {
+                float: none;
+                width:100%;
+            }
+        }
     </style>
 </head>
 <body style ="background-color:darkgray;">
@@ -65,6 +86,7 @@
 <div class="main">
     <h2>Sport</h2>
 </div>
+
 <div class="footer">
     <h2>Copyright © roc-dev.com 2020</h2>
 </div>
