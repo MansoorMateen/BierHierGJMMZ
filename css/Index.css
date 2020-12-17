@@ -47,16 +47,16 @@ header {
     width: 50%;
     height: 50%;
     margin-left: 10px;
-    text-align: center;
+    text-align: left;
     padding-right: 10px;
 }
 
 .Stage {
     box-sizing: border-box;
     float: right;
-    width: 50%;
+    width: 35%;
     height: 50%;
-    text-align: center;
+    text-align: left;
 }
 
 article {
