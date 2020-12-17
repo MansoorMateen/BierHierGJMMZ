@@ -82,6 +82,12 @@ footer {
 
 .footerImage {
     float: right;
+    width: 150px;
+    height: 125px;
+}
+
+footer a {
+    color: snow;
 }
 
 h1 {
