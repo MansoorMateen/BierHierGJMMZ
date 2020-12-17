@@ -1,7 +1,12 @@
 * {
     box-sizing: border-box;
+
 }
 
+p {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
 
 body {
     width: 100%;
@@ -12,6 +17,7 @@ body {
     border-bottom: #333333 5px;
     border-left: #333333 5px;
     border-right: #333333 5px;
+    font-family: 'Padauk', sans-serif;
 }
 
 header {
@@ -44,35 +50,40 @@ header {
 .Nieuws {
     box-sizing: border-box;
     float: left;
-    width: 69%;
-    margin-left: 10px;
-    text-align: center;
+    width: 90%;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: left;
 
 }
 .Nieuws article {
     float: left;
+    width: 24%;
+    margin-left: 40px;
+    margin-right: 90px;
 }
 
 .Stage {
     box-sizing: border-box;
-    float: right;
+    float: left;
     width: 30%;
-    text-align: center;
+    text-align: left;
+    margin-right: 10px;
 }
 
 .Stage article {
-    float: right;
+    float: left;
+    width: 80%;
 }
 
 article {
     display: inline-block;
-    width: 48%;
     border: 2px;
 }
 
 .sectionImage {
-    width: 200px;
-    height: 150px;
+    width: 400px;
+<!--height: 150px;-->
     padding: 5px;
 }
 
@@ -99,17 +110,26 @@ h1 {
     color: black;
     float: left;
     margin-left: 15px;
-    width: 60%;
+    width: 70%;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 h3 {
-    float: left;
+    margin-top: 0;
+    margin-bottom: 10px;
     color: black;
+    width: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
 
+footer h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 h4 {
-    text-align: center;
-    color: white;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
