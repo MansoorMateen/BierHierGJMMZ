@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <title>Sportevenementen</title>
     <style>
+        .main {
+            display: flex;
+            flex-wrap: wrap;
+        }
         @import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap%27);
         @import url(https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap%27);
         .header-img {
@@ -15,7 +19,7 @@
 
         .navbar {
             overflow: hidden;
-            background-color: #333;
+            background-color: #fda4ba;
         }
 
         .navbar a {
@@ -33,6 +37,7 @@
             color: black;
         }
 
+
         .main {
             font-family: 'Padauk', sans-serif;
             font-size: 20px;
@@ -41,12 +46,30 @@
             padding: 200px;
         }
 
+        h2 {
+            text-align: left;
+        }
+
         .footer {
+            font-family: 'Roboto Condensed', sans-serif;
             padding: 20px;
             text-align: center;
+            color: white;
             background: #333;
         }
 
+        @media screen and (max-width: 700px) {
+            .main {
+                flex-direction: column;
+            }
+        }
+
+        @media screen and (max-width: 400px) {
+            .navbar a {
+                float: none;
+                width:100%;
+            }
+        }
     </style>
 </head>
 <body style ="background-color:darkgray;">
@@ -54,15 +77,16 @@
 </div>
 <div class = "navbar">
     <a href = "link">Home</a>
-    <a href = "link">Concerten</a>
-    <a href = "link">Sport</a>
-    <a href = "link">Recepten</a>
-    <a href = "link">Contact</a>
+    <a href = "concert.html">Concerten</a>
+    <a href = "sport.html">Sport</a>
+    <a href = "Recepten.html">Recepten</a>
+    <a href = "contact.html">Contact</a>
 
 </div>
 <div class="main">
     <h2>Sport</h2>
 </div>
+
 <div class="footer">
     <h2>Copyright © roc-dev.com 2020</h2>
 </div>

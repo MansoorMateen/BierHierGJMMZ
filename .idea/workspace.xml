@@ -19,10 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/Index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Index.html" afterDir="false" />
+=======
+    <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="navbar van sport.html is roze, Recepten.html verplaatst naar html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
+>>>>>>> BH
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +50,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -53,13 +65,17 @@
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manhthuong\BierHierGJMMZ\html" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\html" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\css" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Index.html">
+  <component name="RunManager" selected="JavaScript Debug.sport.html">
     <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Recepten.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/Recepten.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/contact.html" useBuiltInWebServerPort="true">
@@ -73,9 +89,14 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.sport.html" />
+        <item itemvalue="JavaScript Debug.Recepten.html" />
         <item itemvalue="JavaScript Debug.Index.html" />
+<<<<<<< HEAD
         <item itemvalue="JavaScript Debug.overons.html" />
         <item itemvalue="JavaScript Debug.sport.html" />
+=======
+>>>>>>> BH
         <item itemvalue="JavaScript Debug.contact.html" />
       </list>
     </recent_temporary>
@@ -90,7 +111,16 @@
       <updated>1608121312731</updated>
       <workItem from="1608121313849" duration="5207000" />
       <workItem from="1608154061719" duration="823000" />
+      <workItem from="1608202606455" duration="3535000" />
     </task>
+    <task id="LOCAL-00001" summary="navbar van sport.html is roze, Recepten.html verplaatst naar html">
+      <created>1608205160526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608205160526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +138,7 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state width="1340" height="225" key="GridCell.Tab.0.bottom" timestamp="1608199339564">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -161,5 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="733" y="342" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608121793194" />
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="navbar van sport.html is roze, Recepten.html verplaatst naar html" />
+    <option name="LAST_COMMIT_MESSAGE" value="navbar van sport.html is roze, Recepten.html verplaatst naar html" />
+>>>>>>> BH
   </component>
 </project>
