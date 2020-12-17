@@ -9,42 +9,36 @@ body {
     margin: 0;
     padding: 0;
     background-color: white;
+    border-bottom: #333333;
+    border-left: #333333;
+    border-right: #333333;
 }
 
 header {
     width: 100%;
-    height: 10%;
+    height: 300px;
     background-color: rgb(111, 168, 220);
-    text-align: center;
+    background-image: url("../img/IndexBanner.jpg");
+    background-size: auto;
 }
 
 #navbar {
-    width: 100%;
-    height: 10%;
-    background-image: url("../img/IndexBanner.jpg");
+    overflow: hidden;
+    background-color: #333333;
 }
 
-section#left {
-    width: 30%;
-    height: 65%;
-    text-align: center;
+#navbar a {
     float: left;
-    border: 5px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
 }
 
-section#middle {
+article {
+    box-sizing: border-box;
     width: 30%;
-    height: 65%;
-    text-align: center;
-    float: left;
-    border: 5px;
-}
-
-section#right {
-    width: 30%;
-    height: 65%;
-    text-align: center;
-    float: left;
     border: 5px;
 }
 
@@ -65,7 +59,7 @@ h1 {
     float: left;
 }
 
-h4 {
+h3 {
     float: left;
    color: black;
 }
