@@ -125,6 +125,11 @@ h4 {
         float: left;
         text-align: center;
     }
+    .sectionImage {
+        width: 250px;
+        height: 150px;
+        padding: 5px;
+    }
 }
 @media all and (min-width:920px) {
     section {
