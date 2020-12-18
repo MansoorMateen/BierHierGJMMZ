@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
 <style>
-    .navbar {
+  .navbar {
         overflow: hidden;
-        background-color: #333;
+        background-color: #fda4ba;
     }
 
     .navbar a {
@@ -26,10 +26,52 @@
         background-color: #ddd;
         color: black;
     }
-    .footer {
-        padding: 20px;
+
+
+
+    footer {
+        width: 100%;
+        height: 20%;
+        background-color: rgb(153, 153, 153);
+        color: white;
+        clear: both;
+        padding: 10px;
+    } footer {
+          width: 100%;
+          height: 20%;
+          background-color: rgb(153, 153, 153);
+          color: white;
+          clear: both;
+          padding: 10px;
+      }
+
+    .footerImage {
+        float: right;
+        width: 150px;
+        height: 125px;
+    }
+
+    footer a {
+        color: snow;
+    }
+
+    footer h3 {
         text-align: center;
-        background: #333;
+        color: white;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    @media screen and (max-width: 700px) {
+        .main {
+            flex-direction: column;
+        }
+    }
+
+    @media screen and (max-width: 400px) {
+        .navbar a {
+            float: none;
+            width:100%;
+        }
     }
 </style>
 <div class="navbar">
@@ -54,8 +96,17 @@
 
 <br><a href="Recepten.html">Terug naar recepten</a>
 
-<div class="footer">
-    <h2>Copyright © roc-dev.com 2020</h2>
+<div>
+    <footer>
+        <img class="footerImage" src="../../img/groepsFoto.jpg">
+        <h4>Sitelinks</h4><p>
+        <a href="../concert.html">Concerten</a> &emsp;&emsp; <a href="../Recepten.html">Recepten</a><br>
+        <a href="../sport.html">Sport</a> &emsp;&emsp;&emsp;&emsp; <a href="../html/Boerenkool.html">Recept Boerenkool</a><br>
+        <a href="../contact.html">Contact</a> &emsp;&emsp;&emsp; <a href="../html/Vissticks.html">Recept Vissticks</a><br>
+        <a href="../overons.html">Over ons</a> &emsp;&emsp;&ensp; <a href="../html/Gefrituurde-kip.html">Recept Gefrituurde Kip</a> <br></p>
+
+        <h3>Copyright &copy; roc-dev.com 2020</h3>
+    </footer>
 </div>
 </body>
 </html>

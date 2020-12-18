@@ -46,7 +46,7 @@ background-color: lightpink;}
     color: black;
 }
 
-.Nieuws {
+section {
     box-sizing: border-box;
     float: left;
     width: 90%;
@@ -55,30 +55,16 @@ background-color: lightpink;}
     text-align: left;
 
 }
-.Nieuws article {
+
+article {
+    display: inline-block;
+    border: 2px;
     float: left;
     width: 24%;
     margin-left: 40px;
     margin-right: 90px;
 }
 
-.Stage {
-    box-sizing: border-box;
-    float: left;
-    width: 30%;
-    text-align: left;
-    margin-right: 10px;
-}
-
-.Stage article {
-    float: left;
-    width: 80%;
-}
-
-article {
-    display: inline-block;
-    border: 2px;
-}
 
 .sectionImage {
     width: 400px;
