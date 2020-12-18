@@ -30,7 +30,8 @@ header {
 
 #navbar {
     overflow: hidden;
-background-color: lightpink;}
+background-color: lightpink;
+}
 
 #navbar a {
     float: left;
@@ -53,7 +54,6 @@ section {
     margin-left: 40px;
     margin-right: 40px;
     text-align: left;
-
 }
 
 article {
@@ -68,7 +68,7 @@ article {
 
 .sectionImage {
     width: 400px;
-    height: 150px;
+    /*height: 150px;*/
     padding: 5px;
 }
 
@@ -127,7 +127,7 @@ h4 {
     }
     .sectionImage {
         width: 250px;
-        height: 150px;
+        /*height: 150px;*/
         padding: 5px;
     }
 }
@@ -135,5 +135,10 @@ h4 {
     section {
         width: 90%;
         float: left;
+    }
+    .sectionImage {
+        width: 400px;
+        /*height: 150px;*/
+        padding: 5px;
     }
 }
