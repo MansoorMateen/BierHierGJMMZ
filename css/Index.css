@@ -118,3 +118,17 @@ h4 {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+
+@media all and (min-width:550px) {
+    section {
+        width: 40%;
+        float: left;
+        text-align: center;
+    }
+}
+@media all and (min-width:920px) {
+    section {
+        width: 90%;
+        float: left;
+    }
+}
