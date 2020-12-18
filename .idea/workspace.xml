@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="images are in the right place">
+    <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="images and text are in the right place">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/Voetbal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Sport/Voetbal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +32,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ljrOtjUmmE0lQJWuzF5qIKElck" />
@@ -82,9 +82,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.sport.html" />
+        <item itemvalue="JavaScript Debug.Index.html" />
         <item itemvalue="JavaScript Debug.contact.html" />
         <item itemvalue="JavaScript Debug.Recepten.html" />
-        <item itemvalue="JavaScript Debug.Index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608205160526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="images and text are in the right place">
+      <created>1608265888643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608265888643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="navbar van sport.html is roze, Recepten.html verplaatst naar html" />
-    <option name="LAST_COMMIT_MESSAGE" value="navbar van sport.html is roze, Recepten.html verplaatst naar html" />
+    <MESSAGE value="images and text are in the right place" />
+    <option name="LAST_COMMIT_MESSAGE" value="images and text are in the right place" />
   </component>
 </project>

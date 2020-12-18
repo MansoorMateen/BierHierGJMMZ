@@ -53,14 +53,58 @@
             clear: both;
             display: table;
         }
+ 
+        span {
+            display: block;
+        }
+        footer {
+            width: 100%;
+            height: 20%;
+            background-color: rgb(153, 153, 153);
+            color: white;
+            clear: both;
+            padding: 10px;
+        }
 
-        .footer {
+        .footerImage {
+            float: right;
+            width: 150px;
+            height: 125px;
+        }
+
+        footer a {
+            color: snow;
+        }
+
+        h3 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: black;
+            width: 100%;
             font-family: 'Roboto Condensed', sans-serif;
-            padding: 20px;
+        }
+
+        footer h3 {
             text-align: center;
             color: white;
-            background: #333;
+            font-family: 'Roboto Condensed', sans-serif;
         }
+
+        h4 {
+            font-size: 20px;
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+
+        p {
+            text-align: left;
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: black;
+            width: 100%;
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+
+
 
         @media screen and (max-width: 700px) {
             .main {
@@ -158,14 +202,24 @@
     </div>
 </div>
 </div>
-
-<div class="footer">
+<div class = "sportclubs">
+<article>
+    <p><b>Links en adressen van sportclubs in Almere</b></p>
+    <p><span>Morbi ut gravida enim. Aliquam ornare mattis interdum.</span><span> Suspendisse potenti. Integer semper commodo dui, </span><span>vitae hendrerit metus maximus sed. Proin gravida </span><span>vestibulum sodales. Duis ipsum sapien, efficitur euismod </span><span>congue et, consequat ac felis. Sed sem ante, commodo </span><span>quis tortor et, tristique elementum enim. Nam a molestie nunc.</span><span>
+        Mauris a leo non eros eleifend vehicula. Integer </span><span>Praesent ac massa at ligula laoreet iaculis. Nulla neque dolor</span><span>Mauris turpis nunc, blandit et, volutpat molestie, porta ut, ligula.</span>
+    </p>
+</article>
+</div>
+<footer>
+    <img class="footerImage" src="../img/groepsFoto.jpg">
     <h4>Sitelinks</h4><p>
     <a href="../html/concert.html">Concerten</a> &emsp;&emsp; <a href="../html/Recepten.html">Recepten</a><br>
     <a href="../html/sport.html">Sport</a> &emsp;&emsp;&emsp;&emsp; <a href="../html/Boerenkool.html">Recept Boerenkool</a><br>
     <a href="../html/contact.html">Contact</a> &emsp;&emsp;&emsp; <a href="../html/Vissticks.html">Recept Vissticks</a><br>
     <a href="../html/overons.html">Over ons</a> &emsp;&emsp;&ensp; <a href="../html/Gefrituurde-kip.html">Recept Gefrituurde Kip</a> <br></p>
-    <h2>Copyright © roc-dev.com 2020</h2>
+
+    <h3>Copyright &copy; roc-dev.com 2020</h3>
+</footer>
 </div>
 </body>
 </html>
