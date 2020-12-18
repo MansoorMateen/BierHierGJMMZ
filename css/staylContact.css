@@ -6,6 +6,7 @@
 
 html {
     overflow: hidden;
+    padding: 10px;
 }
 
 body {
@@ -14,8 +15,8 @@ body {
 }
 
 div.nav {
-    background: #57a6f6;
-    padding: 10px;
+    background-color: lightpink;
+    padding:20px;
 }
 
 a {
