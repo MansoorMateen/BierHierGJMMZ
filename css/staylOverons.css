@@ -4,6 +4,7 @@
 }
 html {
     overflow: hidden;
+    padding: 10px;
 }
 body {
     margin: 0;
@@ -11,12 +12,12 @@ body {
 }
 
 div.nav {
-    background: #57a6f6;
-    padding: 10px;
+ background-color: lightpink;
+    padding:20px;
 }
 
 a {
-    color: black;
+    color:white;
     margin: 5px;
     font-weight: bold;
     font-variant: full-width;
