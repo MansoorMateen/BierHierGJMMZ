@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="added Voetbal.html, alle images in sport.html gaan naar Voetbal.html">
+    <list default="true" id="e0220ab5-c3a0-4381-aa20-03ca847b19f3" name="Default Changelist" comment="images are in the right place">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Voetbal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Sport/Voetbal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,13 +32,6 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -47,11 +41,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,20 +54,23 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\img" />
+      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manhthuong\BierHierGJMMZ\html\Sport" />
+      <recent name="C:\Users\manhthuong\BierHierGJMMZ\html" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\html" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\css" />
       <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sande\Documents\GitHub\BierHierGJMMZ\images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.sport.html">
     <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Voetbal.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/Voetbal.html" useBuiltInWebServerPort="true">
+    <configuration name="Recepten.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/Recepten.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BierHierGJMMZ/html/contact.html" useBuiltInWebServerPort="true">
@@ -86,9 +82,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.sport.html" />
-        <item itemvalue="JavaScript Debug.Index.html" />
-        <item itemvalue="JavaScript Debug.Voetbal.html" />
         <item itemvalue="JavaScript Debug.contact.html" />
+        <item itemvalue="JavaScript Debug.Recepten.html" />
+        <item itemvalue="JavaScript Debug.Index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -102,30 +98,16 @@
       <updated>1608121312731</updated>
       <workItem from="1608121313849" duration="5207000" />
       <workItem from="1608154061719" duration="823000" />
-      <workItem from="1608239490755" duration="2753000" />
+      <workItem from="1608202606455" duration="3535000" />
     </task>
-    <task id="LOCAL-00001" summary="fixed dead image">
-      <created>1608225261794</created>
+    <task id="LOCAL-00001" summary="navbar van sport.html is roze, Recepten.html verplaatst naar html">
+      <created>1608205160526</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1608225261794</updated>
+      <updated>1608205160526</updated>
     </task>
-    <task id="LOCAL-00002" summary="test">
-      <created>1608235972714</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1608235972714</updated>
-    </task>
-    <task id="LOCAL-00003" summary="added Voetbal.html, alle images in sport.html gaan naar Voetbal.html">
-      <created>1608236906310</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1608236906310</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,9 +126,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed dead image" />
-    <MESSAGE value="test" />
-    <MESSAGE value="added Voetbal.html, alle images in sport.html gaan naar Voetbal.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Voetbal.html, alle images in sport.html gaan naar Voetbal.html" />
+    <MESSAGE value="navbar van sport.html is roze, Recepten.html verplaatst naar html" />
+    <option name="LAST_COMMIT_MESSAGE" value="navbar van sport.html is roze, Recepten.html verplaatst naar html" />
   </component>
 </project>

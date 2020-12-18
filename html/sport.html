@@ -10,10 +10,10 @@
         @import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap%27);
         @import url(https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap%27);
         .header-img {
-        width: 100%;
-        height: 300px;
-        background: url(https://cdn.discordapp.com/attachments/552950087723253784/788785402462732328/image0.jpg);
-        background-size: cover;
+            width: 100%;
+            height: 300px;
+            background: url(https://cdn.discordapp.com/attachments/552950087723253784/788785402462732328/image0.jpg);
+            background-size: cover;
         }
 
         .navbar {
@@ -42,10 +42,18 @@
             background-color: white;
             padding: 20px;
         }
-
-        img.sportafbeelding {
-            vertical-align: top;
+        .column {
+            float: left;
+            width: 20%;
+            padding: 2px;
         }
+
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
         .footer {
             font-family: 'Roboto Condensed', sans-serif;
             padding: 20px;
@@ -68,7 +76,7 @@
         }
     </style>
 </head>
-<body style ="background-color:darkgray;">
+<div style ="background-color:darkgray;">
 <div class = "header-img">
 </div>
 <div class = "navbar">
@@ -82,39 +90,74 @@
 </div>
 <div class="main">
     <h2>Sport</h2>
-    <a href="Voetbal.html">
-    <img class = "sportafbeelding" src="https://www.hetamsterdamschevoetbal.nl/wp-content/uploads/2015/07/Sporting.jpg" alt = "Almere voetbal" style = "width: 250px; height: 150px">
+
+    <div class = "row">
+        <div class="column">
+    <a href="Sport/Voetbal.html">
+        <img class = "afbeelding1" src="https://www.hetamsterdamschevoetbal.nl/wp-content/uploads/2015/07/Sporting.jpg" alt = "Almere voetbal" style = "width: 250px; height: 150px">
     </a>
-    <a href="Voetbal.html">
-    <img class = "sportafbeelding" src="https://storage.knltb.club/logos/2e726b6f-7e6d-495c-8f0b-6a1090e8fc03.jpg" alt = "Almere tennis" style = "width: 250px; height: 150px">
+        </div>
+        <div class="column">
+    <a href="Sport/Voetbal.html">
+        <img class = "afbeelding2" src="https://storage.knltb.club/logos/2e726b6f-7e6d-495c-8f0b-6a1090e8fc03.jpg" alt = "Almere tennis" style = "width: 250px; height: 150px">
     </a>
-    <a href="Voetbal.html">
-    <img class = "sportafbeelding" src="https://media.discordapp.net/attachments/646832472947949588/789110118574850058/image0.jpg?width=726&height=498" alt = "Almere badminton" style = "float: left; width: 250px; height: 150px">
+        </div>
+        <div class="column">
+                    <a href="Sport/Voetbal.html">
+        <img class = "afbeelding3" src="https://media.discordapp.net/attachments/646832472947949588/789110118574850058/image0.jpg?width=726&height=498" alt = "Almere badminton" style = "width: 250px; height: 150px">
     </a>
-    <div id="container">
-        <div id="floated-imgs">
-            <a href="Voetbal.html">
-            <img class = "sportafbeelding" src="https://www.trainingscenterdesportclub.nl/wp-content/uploads/2019/07/Foto-kids-fight-club_LI.jpg"style = "width: 250px; height: 150px">
-            </a>
-            <a href="Voetbal.html">
-            <img class = "sportafbeelding" src="https://lh3.googleusercontent.com/proxy/H0F6fYtw4RoN6OaKNGDXnG8lmWg8DRHbERokFsTHD4goxkIp-ulQzNGULfeOXmVeHbpMrLsCrSnvNZRlNn8JaN2Vj6BoJuOfOIJHlpIRxmF8PDReYtaQlkxeX5Tz-A"style = "width: 250px; height: 150px">
-            </a>
-            <a href="Voetbal.html">
-            <img class = "sportafbeelding" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsportenfitnesscenter.nl%2Falmere%2Fwp-content%2Fuploads%2F2019%2F11%2Falmere_fitness_cardio_kick_boks.jpg&f=1&nofb=1" alt = "Almere boksen" style = "width: 250px; height: 150px">
-            </a>
+        </div>
+        <div class = "text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+
         </div>
     </div>
-    <a href="Voetbal.html">
-    <img class = "sportafbeelding" src="https://images.sportlinkclubsites.nl/new/?token=RdFbCMmaIRb8j4TeOciv1zPnkv2iH57L3aLBz4eM8pUTBBu4rZDQwCoNU5iuxouF&type=teamfoto&client_id=KVhYkDNHeX&teamcode=717&lokaleteamcode=-1" alt = "Almere basketbal" style = "width: 250px; height: 150px">
-    </a>
-    <a href="Voetbal.html">
-    <img class = "sportafbeelding" src="https://media.insiders.nl/tfl/files/image/8a44e09665e7ec7284ec85b2a3ef7f412a4ad8de.jpeg" alt = "Almere zwemmen" style = "width: 250px; height: 150px">
-    </a>
-    <a href="Voetbal.html">
-    <img class = "sportafbeelding" src="https://almeerse.nl/files/nieuws/Almeerse%20HJ1.jpg" alt = "Almere hockey" style = "width: 250px; height: 150px">
-    </a>
-</div>
 
+    <div class = "row">
+        <div class="column">
+            <a href="Sport/Voetbal.html">
+                <img class = "afbeelding1" src="https://www.trainingscenterdesportclub.nl/wp-content/uploads/2019/07/Foto-kids-fight-club_LI.jpg" alt = "Almere karate" style = "width: 250px; height: 150px">
+            </a>
+        </div>
+        <div class="column">
+            <a href="Sport/Voetbal.html">
+                <img class = "afbeelding2" src="https://lh3.googleusercontent.com/proxy/Asomge75zktfqA0sz3YSu_4f7W1huChOwZFkulEchLcSgX1wdC4kDm7-miCkta2ZOSkJIwQmIWY8gHpEUqjyAVH0XPieCAoje2dWqRdjHzLggJppt7-r-tFfZFqmmtcg" alt = "Almere kendo" style = "width: 250px; height: 150px">
+            </a>
+        </div>
+        <div class="column">
+            <a href="Sport/Voetbal.html">
+                <img class = "afbeelding3" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsportenfitnesscenter.nl%2Falmere%2Fwp-content%2Fuploads%2F2019%2F11%2Falmere_fitness_cardio_kick_boks.jpg&f=1&nofb=1" alt = "Almere boksen" style = "width: 250px; height: 150px">
+            </a>
+        </div>
+        <div class = "text">
+            Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.nteger tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class="column">
+            <a href="Sport/Voetbal.html">
+                <img class = "afbeelding1" src="https://images.sportlinkclubsites.nl/new/?token=RdFbCMmaIRb8j4TeOciv1zPnkv2iH57L3aLBz4eM8pUTBBu4rZDQwCoNU5iuxouF&type=teamfoto&client_id=KVhYkDNHeX&teamcode=717&lokaleteamcode=-1" alt = "Almere basketbal" style = "width: 250px; height: 150px">
+            </a>
+        </div>
+        <div class="column">
+            <a href="Sport/Voetbal.html">
+                <img class = "afbeelding2" src="https://media.insiders.nl/tfl/files/image/8a44e09665e7ec7284ec85b2a3ef7f412a4ad8de.jpeg" alt = "Almere zwemmen" style = "width: 250px; height: 150px">
+            </a>
+        </div>
+        <div class="column">
+            <a href="Sport/Voetbal.html">
+                <img class = "afbeelding3" src="https://almeerse.nl/files/nieuws/Almeerse%20HJ1.jpg" alt = "Almere hockey" style = "width: 250px; height: 150px">
+            </a>
+        </div>
+        <div class = "text">
+            Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+
+        </div>
+    </div>
+</div>
+</div>
 
 <div class="footer">
     <h4>Sitelinks</h4><p>
